@@ -10,9 +10,8 @@ Nicer
 ## Second Section
 Nice
 
-Let $$A\subseteq\R$$.
+
 ---
-
-# Second Slide
-
-Also nice
+Some stuff
+Let $$A\subseteq\R$$.
+Some more stuff
