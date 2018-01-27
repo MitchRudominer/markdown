@@ -13,6 +13,10 @@ be a subset of the reals.
 ---
 #### An Inline formula
 Let `\(A\subseteq\mathbb{R}\)`.
+
+**Theorem:** There exists a set `\(A\subset\mathbb{R}\)` that is not Lebesgue measurable.
+
+proof: Suppose all unicorns are blue.
 ---
 ##### In-line Mathematics
 
