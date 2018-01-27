@@ -3,11 +3,11 @@
 February 9, 2018
 Cal Poly
 ---
-### Something here.
-Let $$A \subsetq \R$$.
+#### Something here.
+Let $$A\subseteq\mathbb{R}$$.
 
 ---
-Let `\( A \subseteq \mathbb(r)  \)`.
+Let `\(A\subseteq\mathbb{R}\)`.
 ---
 ##### In-line Mathematics
 
