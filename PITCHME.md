@@ -1,12 +1,17 @@
 ---
-# Descriptive Set Theory
+### Descriptive Set Theory
 February 9, 2018
 Cal Poly
+
+View at https://gitpitch.com/MitchRudominer/markdow
 ---
-#### Something here.
-Let $$A\subseteq\mathbb{R}$$.
+#### A formula on its own line
+Let 
+$$A\subseteq\mathbb{R}$$
+be a subset of the reals.
 
 ---
+#### An Inline formula
 Let `\(A\subseteq\mathbb{R}\)`.
 ---
 ##### In-line Mathematics
