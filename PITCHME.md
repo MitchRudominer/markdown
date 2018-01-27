@@ -1,5 +1,5 @@
+------
 # Descriptive Set Theory
-[TOC]
 
 ## First Section
 Nice
