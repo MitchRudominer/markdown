@@ -3,7 +3,7 @@
 February 9, 2018
 Cal Poly
 
-View at https://gitpitch.com/MitchRudominer/markdow
+View at https://gitpitch.com/MitchRudominer/markdown
 ---
 #### A formula on its own line
 Let 
