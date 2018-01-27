@@ -1,6 +1,11 @@
 ---
-## Descriptive Set Theory
-View this at https://gitpitch.com/MitchRudominer/markdown
+# Descriptive Set Theory
+February 9, 2018
+Cal Poly
+---
+### Something here.
+Let $$A \subsetq \R$$.
 
-`\newcommand{\R}{\mathbb{R}}`
-Let `\(A\subseteq\R`\)`
+---
+Let `\( A \subseteq \mathbb(r)  \)`.
+---
