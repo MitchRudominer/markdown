@@ -13,5 +13,5 @@ Nice
 
 ---
 Some stuff
-Let $$A\subseteq\R$$.
+Let $$A\subseteq\mathbb{R}$$.
 Some more stuff
