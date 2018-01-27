@@ -8,6 +8,7 @@ Nice
 ## Second Section
 Nice
 
+Let $A\subseteq\R$.
 ---
 
 # Second Slide
